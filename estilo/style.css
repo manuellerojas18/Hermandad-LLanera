@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+    max-width: 700px;
+    margin: auto;
+}
+main{
+    background-color: blanchedalmond;
+    padding: 15px;
+}
+
+header{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+nav > a{
+    text-decoration: none;
+    color: black;
+}
+main img{
+    max-width: 100%;
+}
